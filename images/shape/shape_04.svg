@@ -1,0 +1,32 @@
+<svg width="250" height="250" viewBox="0 0 250 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="250" height="250">
+<rect width="250" height="250" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M46.5 239.5L84.5 246.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-9.5 244.451L28.5 241.549" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-8.5 -9.5L22.5 12.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M52.5 -9.5L83.5 12.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M111 -10L140 19" stroke="#FF1C63" stroke-width="2"/>
+<path d="M175.5 -11.5L197.5 19.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M231.5 -12.5L251.5 18.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-8.5 49.5L22.5 67.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M50.5 55.5L81.5 75.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M110.5 53.5L141.5 75.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M171 48L200 77" stroke="#FF1C63" stroke-width="2"/>
+<path d="M235.5 46.5L257.5 77.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-8.5 117.5L29.5 128.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M52 119L83 130" stroke="#FF1C63" stroke-width="2"/>
+<path d="M108.5 111.5L139.5 129.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M169.5 109.5L200.5 131.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M228 107L257 136" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-9.5 180.5L28.5 187.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M47.5 176.5L85.5 187.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M109 180L140 191" stroke="#FF1C63" stroke-width="2"/>
+<path d="M169.5 175.5L200.5 195.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M227.5 174.5L258.5 196.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M107.5 240.5L145.5 247.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M171 241L202 252" stroke="#FF1C63" stroke-width="2"/>
+<path d="M229.5 236.5L260.5 256.5" stroke="#FF1C63" stroke-width="2"/>
+</g>
+</svg>

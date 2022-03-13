@@ -1,0 +1,37 @@
+<svg width="252" height="208" viewBox="0 0 252 208" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="252" height="208">
+<rect width="252" height="208" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M244 210L231 185" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M198 210L185 185" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M154.5 208.5L146.5 183.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M108.5 208.5L100.5 183.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M67.5 213.5L59.5 186.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M24.5 213.5L16.5 186.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M241.5 165.5L227.5 142.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M198.5 165.5L184.5 142.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M155.5 166.5L141.5 141.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M114 165L101 140" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M69 165L56 140" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M24.5 167.5L16.5 142.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M245 120L225 100" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M199.5 120.5L184.5 100.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M156 122L141 99" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M111.5 121.5L97.5 98.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M69.5 122.5L55.5 97.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M28 122L15 97" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M249 75L226 60" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M201.5 75.5L181.5 60.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M161 74L141 54" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M115 74L95 54" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M73 77L58 54" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M247.5 29.5L224.5 15.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M205.5 29.5L182.5 15.5" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M162 30L139 15" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M118 30L95 15" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M74 30L54 10" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M26 33L11 10" stroke="#FF0E5D" stroke-width="2"/>
+<path d="M29.5 77.5L15.5 54.5" stroke="#FF0E5D" stroke-width="2"/>
+</g>
+</svg>

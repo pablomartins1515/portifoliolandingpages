@@ -1,0 +1,37 @@
+<svg width="229" height="356" viewBox="0 0 229 356" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="250" height="356">
+<rect width="250" height="356" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M46.5 134.5L84.5 141.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-9.5 139.451L28.5 136.549" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-8.5 203.5L29.5 192.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M46.5 203.5L84.5 196.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-8.5 268.5L22.5 250.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-9 334L20 305" stroke="#FF1C63" stroke-width="2"/>
+<path d="M52 265L83 254" stroke="#FF1C63" stroke-width="2"/>
+<path d="M107.5 264.5L145.5 257.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M53.5 330.5L82.5 308.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M165.5 257.5L203.5 264.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M107.5 198.882L145.5 201.118" stroke="#FF1C63" stroke-width="2"/>
+<path d="M110.5 330.5L141.5 310.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M165.5 327.5L203.5 320.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-8.5 12.5L29.5 23.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M52 14L83 25" stroke="#FF1C63" stroke-width="2"/>
+<path d="M108.5 6.5L139.5 24.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M169.5 4.5L200.5 26.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M228 2L257 31" stroke="#FF1C63" stroke-width="2"/>
+<path d="M-9.5 75.5L28.5 82.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M47.5 71.5L85.5 82.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M109 75L140 86" stroke="#FF1C63" stroke-width="2"/>
+<path d="M169.5 70.5L200.5 90.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M227.5 69.5L258.5 91.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M107.5 135.5L145.5 142.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M171 136L202 147" stroke="#FF1C63" stroke-width="2"/>
+<path d="M229.5 131.5L260.5 151.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M164.5 192.5L202.5 203.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M227.5 191.5L258.5 211.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M228.5 250.5L259.5 268.5" stroke="#FF1C63" stroke-width="2"/>
+<path d="M228.5 311.5L259.5 329.5" stroke="#FF1C63" stroke-width="2"/>
+</g>
+</svg>
